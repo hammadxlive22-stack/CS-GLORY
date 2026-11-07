@@ -6,3 +6,7 @@ pycryptodome
 protobuf-decoder
 protobuf
 requests
+httpx
+
+aiohttp
+PyJWT
